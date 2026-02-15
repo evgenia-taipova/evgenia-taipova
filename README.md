@@ -5,14 +5,14 @@
 
 Frontend Developer specializing in building and customizing e-commerce solutions.  
 Experience in JavaScript, HTML, and SCSS, with additional work on custom functionality and data handling for Shoptet e-shops.  
-Also experienced with modern web development technologies including React and TypeScript.
+Also experienced with web development technologies including React and TypeScript.
 
 ---
 
 ## Current Work
 
 Working as a Frontend Developer on **Shoptet e-shops**, developing and customizing online stores for clients.  
-Professional projects are private and maintained on a corporate GitHub account.
+Professional projects are private and maintained on a [corporate GitHub account](https://github.com/evgeniya-miranda).
 
 Main responsibilities:
 - Developing Shoptet e-shops using JavaScript, HTML, and SCSS  
