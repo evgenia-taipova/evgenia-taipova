@@ -9,7 +9,7 @@ Also experienced with modern web development technologies including React and Ty
 
 ---
 
-## 💼 Current Work
+## Current Work
 
 Working as a Frontend Developer on **Shoptet e-shops**, developing and customizing online stores for clients.  
 Professional projects are private and maintained on a corporate GitHub account.
@@ -22,14 +22,14 @@ Main responsibilities:
 
 ---
 
-## 🎓 Education
+## Education
 
 Brno University of Technology  
 [Faculty of Information Technology](https://www.fit.vut.cz/.cs)
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -41,7 +41,7 @@ Brno University of Technology
 
 ---
 
-## 🚀 Selected Academic Projects
+## Selected Academic Projects
 
 - [Automatic video generation using neural models](https://github.com/evgenia-taipova/VUT-fit/tree/main/IBT%20-%20Bachelor's%20Thesis)  
 - [Finance management mobile application](https://github.com/evgenia-taipova/VUT-fit/tree/main/3bit/3Z/ITU)  
@@ -49,7 +49,7 @@ Brno University of Technology
 
 ---
 
-## 📫 Contact
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/evgeniya-taipova/)  
 [Email](mailto:taipova.evgeniya@icloud.com)  
